@@ -84,7 +84,7 @@
 
 ## Installation & Setup
   - **Clone the repository:**
-    - git clone: https://github.com/Nitin-Yadav-developer/movie-ticket-booking-system.git
+    - git clone: https://github.com/Tannu-Kumari-Singh/Online_movie_ticket_booking_system
 
   - **Configure database connection:**
      - Open src/main/java/com/util/Constants.java
